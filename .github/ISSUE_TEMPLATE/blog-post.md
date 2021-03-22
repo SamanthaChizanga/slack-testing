@@ -17,16 +17,16 @@ assignees: ''
 
 ---
 
-## **Author** : 
+Author: 
 
-## **Lead** : 
+Lead: 
 
-## **Working Title** : 
+Working Title: 
 
-## **Draft Outline - please share your Google Doc here**:
+Draft Outline - please share your Google Doc here:
 
 
-## **Helpful Resources** :
+Helpful Resources :
 
 * [Blog Outline Template](https://docs.google.com/document/d/1mzreZiuqZlTSxZhmyyiYjFBvZknO-lPGVKhK3ScWrXs/edit)
 
