@@ -1,4 +1,14 @@
 ---
+name: Blog-Post
+about: Fill out a ticket for your article. Please do not change the order of the template,
+  it helps us triage and manage your article better!
+title: ''
+labels: New Article
+assignees: ''
+
+---
+
+---
 name: Blog Post
 about: Describe this issue template's purpose here.
 title: ''
