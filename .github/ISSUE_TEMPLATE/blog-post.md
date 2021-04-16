@@ -23,7 +23,7 @@ Lead:
 
 Working Title: 
 
-Draft Outline - please share your Google Doc here:
+Article Outline and Draft - (Share your Google Doc here):
 
 
 Helpful Resources :
@@ -36,9 +36,11 @@ Helpful Resources :
 ## **Things to remember**:
 
 * Please add your article category to your issue
+
+* 
 * Assign your editor: Anita Clarke or Jennie Lundrigan
 
-## Additional (optional) content:
+## Additional content:
 
-Outline of your article if you’d like
-Any other relevant notes
+Outline of your article:
+Any other relevant notes:
